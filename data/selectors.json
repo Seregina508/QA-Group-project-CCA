@@ -6,7 +6,8 @@
     "addNameFieldLabel": "label",
     "defaultValueField": "[name='value']",
     "defaultValueFieldLabel": "label",
-    "addCounterBtn": ".btn-success"
+    "addCounterBtn": ".btn-success",
+    "errorMsg": "[role='alert']"
   },
   "counter": {
     "counterName": "h3",
@@ -19,6 +20,12 @@
     "resetBtn": ".reset",
     "editNameField": "[name='edit']",
     "editNameFieldLabel": "label",
-    "blackBtn": ".btn-black"
+    "blackBtn": ".btn-black",
+    "sub1Btn": ".btn-black[step='-1']",
+    "sub2Btn": ".btn-black[step='-2']",
+    "sub3Btn": ".btn-black[step='-3']",
+    "add1Btn": ".btn-black[step='1']",
+    "add2Btn": ".btn-black[step='2']",
+    "add3Btn": ".btn-black[step='3']"
   }
 }

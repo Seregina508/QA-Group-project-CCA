@@ -6,7 +6,8 @@
     "addNameFieldLabel": "Enter Counter Title:",
     "defaultValueField": "50",
     "defaultValueFieldLabel": "Enter Initial Count:",
-    "addCounterBtn": "ADD COUNTER"
+    "addCounterBtn": "ADD COUNTER",
+    "errorNameShort": "ERROR: Counter name should be longer than 6 characters"
   },
   "counter": {
     "counterName": "1. Default Counter",
@@ -21,6 +22,12 @@
     "editNameFieldLabel": "Edit Counter Title:",
     "defaultNumberBlackBtn": 6,
     "subBtn": ["-1", "-2", "-3"],
-    "addBtn": ["1", "2", "3"]
+    "addBtn": ["1", "2", "3"],
+    "sub1Btn": "-1",
+    "sub2Btn": "-2",
+    "sub3Btn": "-3",
+    "add1Btn": "1",
+    "add2Btn": "2",
+    "add3Btn": "3"
   }
 }
